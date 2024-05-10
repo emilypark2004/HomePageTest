@@ -1,7 +1,6 @@
-/* hero background image */
-.bgimage {
+.geiselimage {
     height:100vh;
-    background: url('images/goldenGateBridge.png');
+    background: url('homepage_images/geisel.png');
     background-size:cover;
     position:relative;
 }
